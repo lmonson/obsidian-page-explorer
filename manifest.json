@@ -1,0 +1,10 @@
+{
+  "id": "page-explorer",
+  "name": "PageExplorer",
+  "version": "0.1.0",
+  "minAppVersion": "0.12.8",
+  "description": "Various Data Science techniques for exploring a vault.",
+  "author": "lmonson",
+  "authorUrl": "https://github.com/lmonson/page-explorer",
+  "isDesktopOnly": false
+}
